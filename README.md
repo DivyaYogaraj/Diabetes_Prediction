@@ -1,5 +1,8 @@
 # Diabetes_Prediction
 
+Unzip the File
+use internet for all installation
+
 Install Python 3.14, then verify the installation:
     Press Windows + R, type `cmd`, and press Enter.
     In Command Prompt, run:
